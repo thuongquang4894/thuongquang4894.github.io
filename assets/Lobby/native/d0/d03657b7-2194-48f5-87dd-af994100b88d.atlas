@@ -1,0 +1,174 @@
+
+sieuwin_loading.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 848, 2827
+  size: 234, 256
+  orig: 234, 256
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 490, 3012
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1, 3122
+  size: 180, 222
+  orig: 180, 222
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1084, 2827
+  size: 202, 238
+  orig: 202, 238
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 1327, 2682
+  size: 255, 238
+  orig: 255, 238
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 1, 2682
+  size: 845, 328
+  orig: 845, 328
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 183, 3122
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 678, 3012
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+kw
+  rotate: false
+  xy: 848, 2682
+  size: 477, 143
+  orig: 477, 143
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 824, 384
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 824, 1150
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 824, 2299
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 1, 384
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 1, 767
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 824, 1916
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 824, 1
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 1, 1
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 824, 1533
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 1, 1150
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 824, 767
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00011
+  rotate: false
+  xy: 1, 1533
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00012
+  rotate: false
+  xy: 1, 2299
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+Comp 1_00013
+  rotate: false
+  xy: 1, 1916
+  size: 821, 381
+  orig: 821, 381
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 3012
+  size: 487, 108
+  orig: 487, 108
+  offset: 0, 0
+  index: -1

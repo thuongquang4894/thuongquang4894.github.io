@@ -1,0 +1,62 @@
+
+SAMLOC.png
+size: 227,921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5395c2a4bd68981a7e01b7e93684d1540ca263e111f1e-2SCmRS
+  rotate: true
+  xy: 2, 239
+  size: 227, 198
+  orig: 227, 198
+  offset: 0, 0
+  index: -1
+5395c2a4bd68981a7e01b7e93684d1540ca263e111f1e-2SCmRS2
+  rotate: false
+  xy: 2, 918
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ENGLISH2
+  rotate: false
+  xy: 2, 918
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ENGLISH
+  rotate: false
+  xy: 5, 869
+  size: 216, 50
+  orig: 216, 50
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 665
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 468
+  size: 221, 195
+  orig: 221, 195
+  offset: 0, 0
+  index: -1
+sambg
+  rotate: true
+  xy: 2, 2
+  size: 235, 223
+  orig: 235, 223
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 806
+  size: 220, 61
+  orig: 220, 61
+  offset: 0, 0
+  index: -1

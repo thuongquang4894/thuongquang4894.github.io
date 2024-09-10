@@ -1,0 +1,118 @@
+
+gems.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 573, 129
+  size: 208, 118
+  orig: 208, 118
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 573, 46
+  size: 81, 136
+  orig: 81, 136
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 137, 12
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 769, 4
+  size: 131, 85
+  orig: 131, 85
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 72
+  size: 189, 175
+  orig: 189, 175
+  offset: 0, 0
+  index: -1
+da1
+  rotate: true
+  xy: 329, 18
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+da2
+  rotate: true
+  xy: 194, 11
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 193, 75
+  size: 188, 172
+  orig: 188, 172
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 383, 75
+  size: 188, 172
+  orig: 188, 172
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 783, 91
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 13
+  size: 133, 57
+  orig: 133, 57
+  offset: 0, 0
+  index: -1
+txt1
+  rotate: false
+  xy: 265, 18
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+txt2
+  rotate: true
+  xy: 711, 34
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+txt3
+  rotate: true
+  xy: 954, 145
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+txt4
+  rotate: true
+  xy: 902, 2
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+txt5
+  rotate: false
+  xy: 954, 94
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1

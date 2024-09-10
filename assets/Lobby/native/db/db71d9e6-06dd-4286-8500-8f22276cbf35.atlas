@@ -1,0 +1,76 @@
+
+ThanTai.png
+size: 1374,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 31189
+  rotate: false
+  xy: 1024, 26
+  size: 238, 142
+  orig: 238, 142
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 802, 21
+  size: 220, 147
+  orig: 220, 147
+  offset: 0, 0
+  index: -1
+english
+  rotate: true
+  xy: 1296, 341
+  size: 264, 76
+  orig: 264, 76
+  offset: 0, 0
+  index: -1
+english2
+  rotate: false
+  xy: 1024, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+miengj
+  rotate: true
+  xy: 1264, 35
+  size: 141, 107
+  orig: 141, 107
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 1278, 257
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: true
+  xy: 1075, 360
+  size: 245, 219
+  orig: 245, 219
+  offset: 0, 0
+  index: -1
+tay trai
+  rotate: false
+  xy: 1075, 178
+  size: 201, 180
+  orig: 201, 180
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 603, 798
+  orig: 603, 798
+  offset: 0, 0
+  index: -1
+thantaibg
+  rotate: false
+  xy: 802, 170
+  size: 271, 435
+  orig: 271, 435
+  offset: 0, 0
+  index: -1

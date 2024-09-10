@@ -1,0 +1,69 @@
+
+squid game.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 13
+  size: 189, 345
+  orig: 189, 345
+  offset: 0, 0
+  index: -1
+cha1
+  rotate: true
+  xy: 1270, 132
+  size: 70, 219
+  orig: 70, 219
+  offset: 0, 0
+  index: -1
+cha2
+  rotate: true
+  xy: 1491, 136
+  size: 66, 187
+  orig: 66, 187
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1858, 133
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 349, 16
+  size: 186, 341
+  orig: 186, 341
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: true
+  xy: 692, 16
+  size: 186, 341
+  orig: 186, 341
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1680, 114
+  size: 176, 88
+  orig: 176, 88
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 2, 2
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: true
+  xy: 1035, 65
+  size: 137, 233
+  orig: 137, 233
+  offset: 0, 0
+  index: -1

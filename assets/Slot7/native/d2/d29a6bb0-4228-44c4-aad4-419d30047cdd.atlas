@@ -1,0 +1,167 @@
+
+rong.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: false
+  xy: 1973, 1874
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1571, 1166
+  size: 222, 208
+  orig: 222, 208
+  offset: 0, 0
+  index: -1
+fx_0000_16
+  rotate: false
+  xy: 997, 1680
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0001_15
+  rotate: false
+  xy: 2, 883
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0002_14
+  rotate: false
+  xy: 997, 1410
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0003_13
+  rotate: false
+  xy: 2, 613
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0004_12
+  rotate: false
+  xy: 2, 343
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0005_11
+  rotate: false
+  xy: 2, 73
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0006_10
+  rotate: true
+  xy: 1571, 1376
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0007_9
+  rotate: false
+  xy: 997, 1140
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0008_8
+  rotate: true
+  xy: 576, 579
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0009_7
+  rotate: true
+  xy: 576, 5
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0010_6
+  rotate: false
+  xy: 846, 870
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0011_5
+  rotate: false
+  xy: 846, 600
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0012_4
+  rotate: false
+  xy: 846, 330
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0013_3
+  rotate: false
+  xy: 846, 60
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+fx_0014_2
+  rotate: true
+  xy: 1420, 566
+  size: 572, 268
+  orig: 572, 268
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 1335
+  size: 993, 613
+  orig: 993, 613
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 2, 2
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: false
+  xy: 1420, 171
+  size: 360, 393
+  orig: 360, 393
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: false
+  xy: 672, 1157
+  size: 97, 176
+  orig: 97, 176
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 1841, 1765
+  size: 130, 183
+  orig: 130, 183
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 1153
+  size: 668, 180
+  orig: 668, 180
+  offset: 0, 0
+  index: -1

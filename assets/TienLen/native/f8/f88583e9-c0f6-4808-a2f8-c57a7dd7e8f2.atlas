@@ -1,0 +1,181 @@
+
+5doi thong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 590, 216
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+5 doi thong
+  rotate: false
+  xy: 2, 320
+  size: 508, 110
+  orig: 508, 110
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 894, 182
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+6 doi
+  rotate: true
+  xy: 807, 394
+  size: 162, 108
+  orig: 162, 108
+  offset: 0, 0
+  index: -1
+E 5 doi thong
+  rotate: false
+  xy: 2, 915
+  size: 766, 98
+  orig: 766, 98
+  offset: 0, 0
+  index: -1
+E doi 2
+  rotate: false
+  xy: 2, 16
+  size: 512, 98
+  orig: 512, 98
+  offset: 0, 0
+  index: -1
+E sanh rong
+  rotate: true
+  xy: 807, 558
+  size: 338, 98
+  orig: 338, 98
+  offset: 0, 0
+  index: -1
+E6 doi
+  rotate: true
+  xy: 412, 461
+  size: 349, 98
+  orig: 349, 98
+  offset: 0, 0
+  index: -1
+Layer 73
+  rotate: true
+  xy: 512, 408
+  size: 402, 95
+  orig: 402, 95
+  offset: 0, 0
+  index: -1
+Layer 73 copy
+  rotate: false
+  xy: 2, 812
+  size: 755, 101
+  orig: 755, 101
+  offset: 0, 0
+  index: -1
+Layer 73 copy 2
+  rotate: true
+  xy: 710, 408
+  size: 402, 95
+  orig: 402, 95
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: true
+  xy: 609, 313
+  size: 497, 99
+  orig: 497, 99
+  offset: 0, 0
+  index: -1
+Layer 77 copy 3
+  rotate: false
+  xy: 2, 9
+  size: 535, 5
+  orig: 535, 5
+  offset: 0, 0
+  index: -1
+Layer 77 copy 4
+  rotate: false
+  xy: 2, 2
+  size: 535, 5
+  orig: 535, 5
+  offset: 0, 0
+  index: -1
+doi thong
+  rotate: false
+  xy: 679, 59
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+hai
+  rotate: false
+  xy: 516, 16
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 216
+  size: 586, 102
+  orig: 586, 102
+  offset: 0, 0
+  index: -1
+mavi-çizgi-png-6 copy
+  rotate: false
+  xy: 2, 216
+  size: 586, 102
+  orig: 586, 102
+  offset: 0, 0
+  index: -1
+quy
+  rotate: false
+  xy: 692, 169
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 770, 898
+  size: 243, 115
+  orig: 243, 115
+  offset: 0, 0
+  index: -1
+sanh
+  rotate: false
+  xy: 710, 282
+  size: 243, 110
+  orig: 243, 110
+  offset: 0, 0
+  index: -1
+thong
+  rotate: true
+  xy: 907, 620
+  size: 276, 110
+  orig: 276, 110
+  offset: 0, 0
+  index: -1
+tu quy
+  rotate: false
+  xy: 2, 116
+  size: 669, 98
+  orig: 669, 98
+  offset: 0, 0
+  index: -1
+tuws
+  rotate: false
+  xy: 829, 59
+  size: 130, 108
+  orig: 130, 108
+  offset: 0, 0
+  index: -1
+vognsang
+  rotate: false
+  xy: 2, 432
+  size: 408, 378
+  orig: 408, 378
+  offset: 0, 0
+  index: -1

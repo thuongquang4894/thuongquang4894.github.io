@@ -1,0 +1,265 @@
+
+IconMyNu.png
+size: 1222,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 8
+  size: 271, 435
+  orig: 271, 435
+  offset: 0, 0
+  index: -1
+KhungTien
+  rotate: true
+  xy: 439, 39
+  size: 240, 129
+  orig: 240, 129
+  offset: 0, 0
+  index: -1
+Text-LADY
+  rotate: true
+  xy: 958, 130
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+Text-NC
+  rotate: true
+  xy: 724, 99
+  size: 180, 22
+  orig: 180, 22
+  offset: 0, 0
+  index: -1
+dark
+  rotate: true
+  xy: 993, 4
+  size: 124, 46
+  orig: 124, 46
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 570, 67
+  size: 29, 212
+  orig: 29, 212
+  offset: 0, 0
+  index: -1
+den-sang
+  rotate: true
+  xy: 1199, 163
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+den-toi
+  rotate: false
+  xy: 1041, 12
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+g1-body
+  rotate: true
+  xy: 849, 2
+  size: 123, 142
+  orig: 123, 142
+  offset: 0, 0
+  index: -1
+g1-co
+  rotate: false
+  xy: 772, 127
+  size: 140, 152
+  orig: 140, 152
+  offset: 0, 0
+  index: -1
+g1-dau
+  rotate: true
+  xy: 653, 2
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+g1-moi
+  rotate: false
+  xy: 627, 52
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+g1-tay
+  rotate: true
+  xy: 1062, 233
+  size: 46, 135
+  orig: 46, 135
+  offset: 0, 0
+  index: -1
+g1-toc
+  rotate: true
+  xy: 1062, 163
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+g1-tocmai
+  rotate: false
+  xy: 1140, 10
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+g1-tocmai2
+  rotate: false
+  xy: 1140, 84
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+g1-toctrai1
+  rotate: false
+  xy: 756, 2
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+g2-body
+  rotate: false
+  xy: 601, 94
+  size: 121, 185
+  orig: 121, 185
+  offset: 0, 0
+  index: -1
+g2-eyes
+  rotate: false
+  xy: 1181, 52
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+g2-head
+  rotate: false
+  xy: 1041, 33
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+g2-moi
+  rotate: true
+  xy: 611, 48
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+g2-sangdai
+  rotate: true
+  xy: 748, 117
+  size: 162, 22
+  orig: 162, 22
+  offset: 0, 0
+  index: -1
+g2-sangtron
+  rotate: false
+  xy: 1145, 193
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+g2-tay
+  rotate: false
+  xy: 914, 129
+  size: 42, 150
+  orig: 42, 150
+  offset: 0, 0
+  index: -1
+g2-toc1
+  rotate: false
+  xy: 998, 137
+  size: 62, 142
+  orig: 62, 142
+  offset: 0, 0
+  index: -1
+g2-toc1b
+  rotate: true
+  xy: 539, 5
+  size: 32, 112
+  orig: 32, 112
+  offset: 0, 0
+  index: -1
+g2-toc2
+  rotate: true
+  xy: 439, 3
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+neon-B
+  rotate: true
+  xy: 1150, 135
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+neon-C
+  rotate: true
+  xy: 601, 68
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-G
+  rotate: true
+  xy: 1062, 137
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-H
+  rotate: true
+  xy: 1106, 137
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-I
+  rotate: false
+  xy: 1181, 8
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+neon-L
+  rotate: false
+  xy: 1199, 237
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+neon-N
+  rotate: true
+  xy: 495, 4
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+neon-T
+  rotate: true
+  xy: 1145, 167
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+neon-U
+  rotate: false
+  xy: 1194, 119
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+tamgiac
+  rotate: false
+  xy: 570, 39
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1

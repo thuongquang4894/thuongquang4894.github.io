@@ -1,0 +1,132 @@
+
+rong.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 364, 611
+  size: 251, 377
+  orig: 251, 377
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 134
+  size: 244, 459
+  orig: 244, 459
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 248, 519
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 617, 562
+  size: 222, 208
+  orig: 222, 208
+  offset: 0, 0
+  index: -1
+fire/Layer 1
+  rotate: false
+  xy: 617, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 10
+  rotate: false
+  xy: 1495, 554
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 2
+  rotate: false
+  xy: 835, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 3
+  rotate: false
+  xy: 1053, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 4
+  rotate: false
+  xy: 1271, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 5
+  rotate: false
+  xy: 1489, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 6
+  rotate: false
+  xy: 1707, 772
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 7
+  rotate: false
+  xy: 841, 554
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 8
+  rotate: false
+  xy: 1059, 554
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fire/Layer 9
+  rotate: false
+  xy: 1277, 554
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 1713, 701
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: false
+  xy: 2, 595
+  size: 360, 393
+  orig: 360, 393
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: false
+  xy: 1925, 812
+  size: 97, 176
+  orig: 97, 176
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: true
+  xy: 2, 2
+  size: 130, 183
+  orig: 130, 183
+  offset: 0, 0
+  index: -1

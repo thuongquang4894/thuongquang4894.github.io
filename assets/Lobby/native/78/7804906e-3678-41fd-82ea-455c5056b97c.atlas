@@ -1,0 +1,13 @@
+
+squid-game.png
+size: 271,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lobby
+  rotate: false
+  xy: 0, 0
+  size: 271, 435
+  orig: 271, 435
+  offset: 0, 0
+  index: -1

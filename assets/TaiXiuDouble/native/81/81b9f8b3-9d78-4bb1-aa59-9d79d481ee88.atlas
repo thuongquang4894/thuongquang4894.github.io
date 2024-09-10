@@ -1,0 +1,48 @@
+
+logo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 71
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+vic68.pro
+  rotate: false
+  xy: 289, 210
+  size: 289, 44
+  orig: 289, 44
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 289, 50
+  size: 205, 158
+  orig: 205, 158
+  offset: 0, 0
+  index: -1
+fx1 copy
+  rotate: false
+  xy: 580, 94
+  size: 203, 160
+  orig: 203, 160
+  offset: 0, 0
+  index: -1
+Đổ Thánh
+  rotate: false
+  xy: 2, 145
+  size: 285, 109
+  orig: 285, 109
+  offset: 0, 0
+  index: -1

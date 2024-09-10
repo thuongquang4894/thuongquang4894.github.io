@@ -1,0 +1,132 @@
+
+ic_tx.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clipping
+  rotate: false
+  xy: 374, 293
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 1, 253
+  size: 263, 212
+  orig: 263, 212
+  offset: 0, 0
+  index: -1
+txstbg
+  rotate: false
+  xy: 1, 1
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 390, 53
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 390, 1
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 462, 201
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 264, 129
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 264, 1
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 266, 225
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 372, 129
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+sieutocblur
+  rotate: false
+  xy: 1, 549
+  size: 270, 64
+  orig: 270, 64
+  offset: 0, 0
+  index: -1
+sieutoc
+  rotate: false
+  xy: 1, 467
+  size: 267, 80
+  orig: 267, 80
+  offset: 0, 0
+  index: -1
+elect/elec1_00011
+  rotate: false
+  xy: 266, 339
+  size: 90, 36
+  orig: 90, 36
+  offset: 0, 0
+  index: -1
+elect/elec1_00000
+  rotate: false
+  xy: 356, 299
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+elect/elec1_00002
+  rotate: false
+  xy: 374, 233
+  size: 85, 29
+  orig: 85, 29
+  offset: 0, 0
+  index: -1
+elect/elec1_00004
+  rotate: false
+  xy: 374, 264
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+elect/elec1_00006
+  rotate: false
+  xy: 374, 201
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+elect/elec1_00009
+  rotate: false
+  xy: 266, 299
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1

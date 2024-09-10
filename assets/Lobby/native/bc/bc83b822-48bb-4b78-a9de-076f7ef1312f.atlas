@@ -1,0 +1,62 @@
+
+cao_thap.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAO
+  rotate: false
+  xy: 567, 66
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+THAP
+  rotate: false
+  xy: 2, 2
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 57
+  size: 187, 173
+  orig: 187, 173
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 567, 111
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 672, 146
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 379, 60
+  size: 186, 170
+  orig: 186, 170
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 191, 60
+  size: 186, 170
+  orig: 186, 170
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 739, 172
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1

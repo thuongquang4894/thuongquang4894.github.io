@@ -1,0 +1,118 @@
+
+Taixiu_icon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 292, 1
+  size: 198, 273
+  orig: 198, 273
+  offset: 0, 0
+  index: -1
+tien3
+  rotate: false
+  xy: 570, 381
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+tien2
+  rotate: false
+  xy: 622, 381
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+tien1
+  rotate: false
+  xy: 494, 381
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+taixiubg
+  rotate: false
+  xy: 1, 1
+  size: 289, 435
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 1, 438
+  size: 181, 73
+  orig: 181, 73
+  offset: 0, 0
+  index: -1
+Group 31229
+  rotate: false
+  xy: 292, 400
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 292, 276
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 402, 438
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 551, 438
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+small
+  rotate: false
+  xy: 402, 400
+  size: 90, 35
+  orig: 90, 35
+  offset: 0, 0
+  index: -1
+xỉu
+  rotate: false
+  xy: 184, 438
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+small2
+  rotate: false
+  xy: 285, 438
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tài
+  rotate: false
+  xy: 419, 276
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+big
+  rotate: false
+  xy: 419, 337
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+big2
+  rotate: false
+  xy: 282, 438
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+pokemon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 53
+  size: 187, 173
+  orig: 187, 173
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 669, 78
+  size: 146, 162
+  orig: 146, 162
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 817, 135
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 349, 54
+  size: 186, 170
+  orig: 186, 170
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: true
+  xy: 177, 54
+  size: 186, 170
+  orig: 186, 170
+  offset: 0, 0
+  index: -1
+set
+  rotate: false
+  xy: 865, 6
+  size: 69, 127
+  orig: 69, 127
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 521, 47
+  size: 193, 146
+  orig: 193, 146
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 669, 2
+  size: 194, 74
+  orig: 194, 74
+  offset: 0, 0
+  index: -1
